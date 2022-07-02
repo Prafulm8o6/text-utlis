@@ -1,0 +1,15 @@
+.nav-link-border {
+    font-size: large;
+}
+
+.nav-link-border:hover {
+    border-bottom: 4px solid orange;
+    border-width: 5px;
+}
+
+.card:hover {
+    transform: scale(.9);
+    transition-delay: .8s;
+    transition-duration: 1.5s;
+    transition: transform .44s;
+}
